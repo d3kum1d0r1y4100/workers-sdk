@@ -10,7 +10,7 @@ if (require.main === module) {
 			Generate Dependabot Changeset
 			=============================
 			`);
-
+		console.log(dedent`EVIL RUN`);
 		main(processArgs());
 	} catch (e) {
 		if (e instanceof Error) {
