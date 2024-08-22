@@ -1,9 +1,9 @@
 {
 	"name": "frameworks_clis_info",
 	"description": [
-		"this package.json is only used to keep track of the frameworks cli dependencies",
-		"so that we can use dependabot to update these dependencies automatically",
-		"additionally it also contains a map that maps frameworks to their respective clis"
+		"this package.json is only used to keep track of the frameworks cli dependencies.",
+		"so that we can use dependabot to update these dependencies automatically.",
+		"additionally it also contains a map that maps frameworks to their respective clis."
 	],
 	"dependencies": {
 		"create-astro": "4.8.0",
